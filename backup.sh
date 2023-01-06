@@ -4,6 +4,7 @@ rm -rf packages.txt
 rm -rf flatpak.txt
 pacman -Qs >> packages.txt
 flatpak list >> flatpak.txt
+cp -R /home/marcus/Documents/colors /home/marcus/Documents/dotfiles/home/marcus
 cp -R /home/marcus/.config/hypr/ /home/marcus/Documents/dotfiles/home/marcus/config/
 cp -R /home/marcus/.config/waybar/ /home/marcus/Documents/dotfiles/home/marcus/config/
 cp -R /home/marcus/.config/kitty/ /home/marcus/Documents/dotfiles/home/marcus/config/
