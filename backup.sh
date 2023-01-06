@@ -8,7 +8,6 @@ cp -R /home/marcus/Documents/colors /home/marcus/Documents/dotfiles/home/marcus/
 cp -R /home/marcus/.config/hypr/ /home/marcus/Documents/dotfiles/home/marcus/config/
 cp -R /home/marcus/.config/waybar/ /home/marcus/Documents/dotfiles/home/marcus/config/
 cp -R /home/marcus/.config/kitty/ /home/marcus/Documents/dotfiles/home/marcus/config/
-cp -R /home/marcus/.config/kitty/kitty-themes/ /home/marcus/Documents/dotfiles/home/marcus/config/
 cp -R /home/marcus/.config/nwg* /home/marcus/Documents/dotfiles/home/marcus/config/
 cp -R /home/marcus/.config/mimeapps.list /home/marcus/Documents/dotfiles/home/marcus/config/
 cp -R /home/marcus/.config/gtk* /home/marcus/Documents/dotfiles/home/marcus/config/
