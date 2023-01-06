@@ -1,0 +1,1266 @@
+local/acl 2.3.1-2
+    Access control list utilities, libraries and headers
+local/adobe-source-code-pro-fonts 2.038ro+1.058it+1.018var-1
+    Monospaced font family for user interface and coding environments
+local/adwaita-cursors 43-2
+    GNOME standard cursors
+local/adwaita-icon-theme 43-2
+    GNOME standard icons
+local/alacritty 0.11.0-2
+    A cross-platform, GPU-accelerated terminal emulator
+local/alsa-card-profiles 1:0.3.63-3
+    Low-latency audio/video router and processor - ALSA card profiles
+local/alsa-lib 1.2.8-1
+    An alternative implementation of Linux sound support
+local/alsa-plugins 1:1.2.7.1-1
+    Additional ALSA plugins
+local/alsa-topology-conf 1.2.5.1-1
+    ALSA topology configuration files
+local/alsa-ucm-conf 1.2.8-1
+    ALSA Use Case Manager configuration (and topologies)
+local/amd-ucode 20221214.f3c283e-1
+    Microcode update image for AMD CPUs
+local/amdvlk 2022.Q4.4-1
+    AMD's standalone Vulkan driver
+local/aom 3.5.0-1
+    Alliance for Open Media video codec
+local/appstream 0.15.6-1
+    Provides a standard for creating app stores across distributions
+local/archlinux-keyring 20221220-1 (base-devel)
+    Arch Linux PGP keyring
+local/argon2 20190702-4
+    A password-hashing function (reference C implementation)
+local/at-spi2-core 2.46.0-2
+    Protocol definitions and daemon for D-Bus at-spi
+local/atkmm 2.28.3-1
+    C++ bindings for ATK
+local/attr 2.5.1-2
+    Extended attribute support library for ACL support
+local/audit 3.0.8-1
+    Userspace components of the audit framework
+local/autoconf 2.71-1 (base-devel)
+    A GNU tool for automatically configuring source code
+local/automake 1.16.5-1 (base-devel)
+    A GNU tool for automatically creating Makefiles
+local/avahi 0.8+22+gfd482a7-3
+    Service Discovery for Linux using mDNS/DNS-SD -- compatible with Bonjour
+local/base 3-1
+    Minimal package set to define a basic Arch Linux installation
+local/bash 5.1.016-1
+    The GNU Bourne Again shell
+local/bibata-cursor-theme 2.0.3-1
+    Material Based Cursor Theme
+local/binutils 2.39-4 (base-devel)
+    A set of programs to assemble and manipulate binary and object files
+local/bison 3.8.2-4 (base-devel)
+    The GNU general-purpose parser generator
+local/blas 3.11.0-1
+    Basic Linear Algebra Subprograms
+local/bluez-libs 5.66-1
+    Deprecated libraries for the bluetooth protocol stack
+local/boost-libs 1.80.0-3
+    Free peer-reviewed portable C++ source libraries (runtime libraries)
+local/brotli 1.0.9-9
+    Generic-purpose lossless compression algorithm
+local/btrfs-progs 6.1-2
+    Btrfs filesystem utilities
+local/bubblewrap 0.7.0-1
+    Unprivileged sandboxing tool
+local/bzip2 1.0.8-5
+    A high-quality data compression program
+local/ca-certificates 20220905-1
+    Common CA certificates (default providers)
+local/ca-certificates-mozilla 3.86-1
+    Mozilla's set of trusted CA certificates
+local/ca-certificates-utils 20220905-1
+    Common CA certificates (utilities)
+local/cairo 1.17.6-2
+    2D graphics library with support for multiple output devices
+local/cairomm 1.14.4-1
+    C++ bindings for Cairo
+local/cantarell-fonts 1:0.303.1-1
+    Humanist sans serif font
+local/catch2-git 3.2.1.r13.gac93f194-1
+    Modern, C++-native, header-only, test framework for unit-tests, TDD and BDD (developmental version)
+local/cblas 3.11.0-1
+    C interface to BLAS
+local/chrono-date 3.0.1-3
+    A date and time library based on the C++11/14/17 <chrono> header
+local/cmake 3.25.1-1
+    A cross-platform open-source make system
+local/colord 1.4.6-1
+    System daemon for managing color devices
+local/coreutils 9.1-3
+    The basic file, shell and text manipulation utilities of the GNU operating system
+local/cryptsetup 2.6.0-1
+    Userspace setup tool for transparent encryption of block devices using dm-crypt
+local/curl 7.87.0-1
+    An URL retrieval utility and library
+local/cython 0.29.32-2
+    C-Extensions for Python
+local/dav1d 1.0.0-1
+    AV1 cross-platform decoder focused on speed and correctness
+local/db5.3 5.3.28-2
+    The Berkeley DB embedded database system v5.3
+local/dbus 1.14.4-1
+    Freedesktop.org message bus system
+local/dbus-glib 0.112-2
+    GLib bindings for DBUS
+local/dconf 0.40.0-2
+    Configuration database system
+local/debugedit 5.0-4 (base-devel)
+    Tool to mangle source locations in .debug files
+local/default-cursors 2-1
+    Default cursor set
+local/desktop-file-utils 0.26-2
+    Command line utilities for working with desktop entries
+local/device-mapper 2.03.18-1
+    Device mapper userspace library and tools
+local/dhcp 4.4.3.P1-1
+    A DHCP server, client, and relay agent
+local/diffutils 3.8-1
+    Utility programs used for creating patch files
+local/dmraid 1.0.0.rc16.3-14
+    Device mapper RAID interface
+local/dnssec-anchors 20190629-3
+    DNSSEC trust anchors for the root zone
+local/dosfstools 4.2-2
+    DOS filesystem utilities
+local/duktape 2.7.0-5
+    Embeddable Javascript engine
+local/e2fsprogs 1.46.5-4
+    Ext2/3/4 filesystem utilities
+local/efibootmgr 18-1
+    Linux user-space application to modify the EFI Boot Manager
+local/efivar 38-2
+    Tools and libraries to work with EFI variables
+local/elementary-icon-theme 7.1.0-1 (pantheon)
+    Named, vector icons for elementary OS
+local/ell 0.55-1
+    Embedded Linux library
+local/emacs 28.2-1
+    The extensible, customizable, self-documenting real-time display editor
+local/enchant 2.3.3-2
+    A wrapper library for generic spell checking
+local/exo 4.18.0-1 (xfce4)
+    Application library for the Xfce desktop environment
+local/expat 2.5.0-1
+    An XML parser library
+local/fakeroot 1.30.1-1 (base-devel)
+    Tool for simulating superuser privileges
+local/ffmpeg 2:5.1.2-1
+    Complete solution to record, convert and stream audio and video
+local/ffmpegthumbnailer 2.2.2-4
+    Lightweight video thumbnailer that can be used by file managers
+local/file 5.44-1 (base-devel)
+    File type identification utility
+local/filesystem 2022.10.18-1
+    Base Arch Linux files
+local/findutils 4.9.0-1 (base-devel)
+    GNU utilities to locate files
+local/firefox 108.0.1-1
+    Standalone web browser from mozilla.org
+local/flac 1.4.2-1
+    Free Lossless Audio Codec
+local/flatpak 1:1.15.1-1
+    Linux application sandboxing and distribution framework (formerly xdg-app)
+local/flex 2.6.4-3 (base-devel)
+    A tool for generating text-scanning programs
+local/fmt 9.1.0-2
+    Open-source formatting library for C++
+local/fontconfig 2:2.14.1-2
+    Library for configuring and customizing font access
+local/freetype2 2.12.1-1
+    Font rasterization library
+local/fribidi 1.0.12-1
+    A Free Implementation of the Unicode Bidirectional Algorithm
+local/fuse-common 3.12.0-1
+    Common files for fuse2/3 packages
+local/fuse3 3.12.0-1
+    A library that makes it possible to implement a filesystem in a userspace program.
+local/garcon 4.18.0-1 (xfce4)
+    Freedesktop.org compliant menu library
+local/gawk 5.2.1-1 (base-devel)
+    GNU version of awk
+local/gc 8.2.2-1
+    A garbage collector for C and C++
+local/gcc 12.2.0-1 (base-devel)
+    The GNU Compiler Collection - C and C++ frontends
+local/gcc-libs 12.2.0-1
+    Runtime libraries shipped by GCC
+local/gcr 3.41.1-3
+    A library for bits of crypto UI and parsing
+local/gd 2.3.3-5
+    Library for the dynamic creation of images by programmers
+local/gdb 12.1-2
+    The GNU Debugger
+local/gdb-common 12.1-2
+    The GNU Debugger
+local/gdbm 1.23-1
+    GNU database library
+local/gdk-pixbuf2 2.42.10-1
+    An image loading library
+local/geoclue 2.6.0-3
+    Modular geoinformation service built on the D-Bus messaging system
+local/gettext 0.21.1-2 (base-devel)
+    GNU internationalization library
+local/giflib 5.2.1-2
+    Library for reading and writing gif images
+local/git 2.39.0-1
+    the fast distributed version control system
+local/glib-networking 1:2.74.0-1
+    Network extensions for GLib
+local/glib2 2.74.4-1
+    Low level core library
+local/glibc 2.36-6
+    GNU C Library
+local/glibmm 2.66.5-1
+    C++ bindings for GLib
+local/glslang 11.11.0-1
+    OpenGL and OpenGL ES shader front end and validator
+local/gmp 6.2.1-2
+    A free library for arbitrary precision arithmetic
+local/gnome-themes-extra 3.28+r6+g45b1d457-1
+    Extra Themes for GNOME Applications
+local/gnu-free-fonts 20120503-8
+    A free family of scalable outline fonts
+local/gnupg 2.2.40-1
+    Complete and free implementation of the OpenPGP standard
+local/gnutls 3.7.8-4
+    A library which provides a secure layer over a reliable transport layer
+local/go 2:1.19.4-1
+    Core compiler tools for the Go programming language
+local/gobject-introspection-runtime 1.74.0-1
+    Introspection system for GObject-based libraries (runtime library)
+local/gpgme 1.18.0-1
+    A C wrapper library for GnuPG
+local/gpm 1.20.7.r38.ge82d1a6-4
+    A mouse server for the console and xterm
+local/gptfdisk 1.0.9-2
+    A text-mode partitioning tool that works on GUID Partition Table (GPT) disks
+local/graphite 1:1.3.14-2
+    reimplementation of the SIL Graphite text processing engine
+local/grep 3.8-2 (base-devel)
+    A string search utility
+local/groff 1.22.4-7 (base-devel)
+    GNU troff text-formatting system
+local/grub 2:2.06.r403.g7259d55ff-1
+    GNU GRand Unified Bootloader (2)
+local/gsettings-desktop-schemas 43.0-1
+    Shared GSettings schemas for the desktop
+local/gsm 1.0.22-1
+    Shared libraries for GSM 06.10 lossy speech compression
+local/gst-plugin-pipewire 1:0.3.63-3
+    Multimedia graph framework - pipewire plugin
+local/gst-plugins-base-libs 1.20.5-1
+    Multimedia graph framework - base
+local/gstreamer 1.20.5-1
+    Multimedia graph framework - core
+local/gtk-layer-shell 0.8.0-1
+    Library to create Wayland desktop components using the Layer Shell protocol
+local/gtk-update-icon-cache 1:4.8.3-1
+    GTK icon cache updater
+local/gtk3 1:3.24.36-1
+    GObject-based multi-platform GUI toolkit
+local/gtkmm3 3.24.7-1
+    C++ bindings for GTK+ 3
+local/guile 3.0.8-3
+    Portable, embeddable Scheme implementation written in C
+local/gvfs 1.50.2-1 (gnome)
+    Virtual filesystem implementation for GIO
+local/gzip 1.12-1 (base-devel)
+    GNU compression utility
+local/harfbuzz 6.0.0-1
+    OpenType text shaping engine
+local/harfbuzz-icu 6.0.0-1
+    OpenType text shaping engine - ICU integration
+local/hicolor-icon-theme 0.17-2
+    Freedesktop.org Hicolor icon theme
+local/hidapi 0.12.0-1
+    Simple library for communicating with USB and Bluetooth HID devices
+local/htop 3.2.1-1
+    Interactive process viewer
+local/http-parser 2.9.4-1
+    Parser for HTTP Request/Response written in C
+local/hwdata 0.365-1
+    hardware identification databases
+local/hyphen 2.8.8-5
+    library for high quality hyphenation and justification
+local/hyprland 0.19.2beta-1
+    A dynamic tiling Wayland compositor based on wlroots that doesn't sacrifice on its looks.
+local/hyprpaper-git r69.aefd638-1
+    A blazing fast wayland wallpaper utility with IPC controls.
+local/hyprpicker-git r36.aa3c2ac-1
+    A wlroots-compatible Wayland color picker that does not suck.
+local/iana-etc 20221215-1
+    /etc/protocols and /etc/services provided by IANA
+local/icu 72.1-2
+    International Components for Unicode library
+local/iniparser 4.1-4
+    A free stand-alone ini file parsing library written in portable ANSI C
+local/iproute2 6.1.0-3
+    IP Routing Utilities
+local/iptables 1:1.8.8-2
+    Linux kernel packet control tool (using legacy interface)
+local/iputils 20221126-1
+    Network monitoring tools, including ping
+local/iso-codes 4.12.0-1
+    Lists of the country, language, and currency names
+local/iwd 2.1-1
+    Internet Wireless Daemon
+local/jansson 2.14-2
+    C library for encoding, decoding and manipulating JSON data
+local/json-c 0.16-1
+    A JSON implementation in C
+local/json-glib 1.6.6-2
+    JSON library built on GLib
+local/jsoncpp 1.9.5-2
+    C++ library for interacting with JSON
+local/kbd 2.5.1-1
+    Keytable files and keyboard utilities
+local/keyutils 1.6.3-1
+    Linux Key Management Utilities
+local/kitty 0.26.5-1
+    A modern, hackable, featureful, OpenGL-based terminal emulator
+local/kitty-shell-integration 0.26.5-1
+    Shell integration scripts for kitty, an OpenGL-based terminal emulator
+local/kitty-terminfo 0.26.5-1
+    Terminfo for kitty, an OpenGL-based terminal emulator
+local/kmod 30-3
+    Linux kernel module management tools and library
+local/krb5 1.20.1-1
+    The Kerberos network authentication system
+local/l-smash 2.14.5-2
+    MP4 muxer and other tools
+local/lame 3.100-4
+    A high quality MPEG Audio Layer III (MP3) encoder
+local/lapack 3.11.0-1
+    Linear Algebra PACKage
+local/lcms2 2.14-1
+    Small-footprint color management engine, version 2
+local/ldns 1.8.3-2
+    Fast DNS library supporting recent RFCs
+local/less 1:608-1
+    A terminal based program for viewing text files
+local/lib32-alsa-lib 1.2.8-1
+    An alternative implementation of Linux sound support (32 bit)
+local/lib32-alsa-plugins 1.2.7.1-1
+    Additional ALSA plugins (32-bit)
+local/lib32-amdvlk 2022.Q4.4-1
+    AMD's standalone Vulkan driver
+local/lib32-brotli 1.0.9-5
+    Brotli compression library
+local/lib32-bzip2 1.0.8-3
+    A high-quality data compression program (32-bit)
+local/lib32-curl 7.87.0-1
+    An URL retrieval utility and library (32-bit)
+local/lib32-e2fsprogs 1.46.5-1
+    Ext2/3/4 filesystem libraries (32-bit)
+local/lib32-expat 2.5.0-2
+    An XML Parser library
+local/lib32-gcc-libs 12.2.0-1 (multilib-devel)
+    32-bit runtime libraries shipped by GCC
+local/lib32-glibc 2.36-6
+    GNU C Library (32-bit)
+local/lib32-icu 72.1-2
+    International Components for Unicode library (32 bit)
+local/lib32-keyutils 1.6.3-1
+    Linux Key Management Utilities (32-bit)
+local/lib32-krb5 1.20-3
+    The Kerberos network authentication system (32-bit)
+local/lib32-libdrm 2.4.114-1
+    Userspace interface to kernel DRM services (32-bit)
+local/lib32-libelf 0.188-1
+    Handle ELF object files and DWARF debugging information (libraries) (32-bit)
+local/lib32-libffi 3.4.4-1
+    Portable foreign function interface library (32-bit)
+local/lib32-libglvnd 1.6.0-1
+    The GL Vendor-Neutral Dispatch library
+local/lib32-libgpg-error 1.46-1
+    Support library for libgcrypt (32-bit)
+local/lib32-libidn2 2.3.4-2
+    Free software implementation of IDNA2008, Punycode and TR46
+local/lib32-libldap 2.6.3-3
+    Lightweight Directory Access Protocol (LDAP) client libraries (32-bit)
+local/lib32-libpciaccess 0.17-1
+    X11 PCI access library (32-bit
+local/lib32-libpsl 0.21.1-3
+    Public Suffix List library (32-bit)
+local/lib32-libssh2 1.10.0-2
+    A library implementing the SSH2 protocol as defined by Internet Drafts (32-bit)
+local/lib32-libtasn1 4.19.0-1
+    The ASN.1 library used in GNUTLS (32 bit)
+local/lib32-libunistring 1.1-1
+    Library for manipulating Unicode strings and C strings (32-bit)
+local/lib32-libunwind 1.6.2-2
+    Portable and efficient C programming interface (API) to determine the call-chain of a program (32-bit)
+local/lib32-libx11 1.8.2-2
+    X11 client-side library (32-bit)
+local/lib32-libxau 1.0.10-3
+    X11 authorisation library (32-bit)
+local/lib32-libxcb 1.15-2
+    X11 client-side library (32-bit)
+local/lib32-libxcrypt 4.4.33-1
+    Modern library for one-way hashing of passwords (32-bit)
+local/lib32-libxdamage 1.1.5-3
+    X11 damaged region extension library (32-bit)
+local/lib32-libxdmcp 1.1.4-1
+    X11 Display Manager Control Protocol library (32-bit)
+local/lib32-libxext 1.3.5-1
+    X11 miscellaneous extensions library (32-bit)
+local/lib32-libxfixes 6.0.0-2
+    X11 miscellaneous 'fixes' extension library (32-bit)
+local/lib32-libxml2 2.10.3-2
+    XML C parser and toolkit (32-bit)
+local/lib32-libxshmfence 1.3.1-1
+    a library that exposes a event API on top of Linux futexes (32-bit)
+local/lib32-libxss 1.2.3-2
+    X11 Screen Saver extension library (32-bit)
+local/lib32-libxxf86vm 1.1.5-1
+    X11 XFree86 video mode extension library (32-bit)
+local/lib32-llvm-libs 14.0.6-3
+    LLVM runtime libraries (32-bit)
+local/lib32-lm_sensors 1:3.6.0.r41.g31d1f125-2
+    Collection of user space tools for general SMBus access and hardware monitoring (32-bit)
+local/lib32-mesa 22.3.2-1
+    An open-source implementation of the OpenGL specification (32-bit)
+local/lib32-ncurses 6.3-1
+    System V Release 4.0 curses emulation library (32-bit)
+local/lib32-nspr 4.35-1
+    Netscape Portable Runtime (32-bit)
+local/lib32-nss 3.86-1
+    Network Security Services (32-bit)
+local/lib32-openssl 1:3.0.7-1
+    The Open Source toolkit for Secure Sockets Layer and Transport Layer Security (32-bit)
+local/lib32-p11-kit 0.24.1-1
+    Loads and enumerates PKCS#11 modules (32-bit library)
+local/lib32-sqlite 3.40.0-1
+    A C library that implements an SQL database engine (32-bit)
+local/lib32-vulkan-icd-loader 1.3.235-1
+    Vulkan Installable Client Driver (ICD) Loader (32-bit)
+local/lib32-wayland 1.21.0-1
+    A computer display server protocol
+local/lib32-xz 5.4.0-1
+    Library and command line tools for XZ and LZMA compressed files (32-bit)
+local/lib32-zlib 1.2.13-2
+    Compression library implementing the deflate compression method found in gzip and PKZIP (32-bit)
+local/lib32-zstd 1.5.2-1
+    Zstandard - Fast real-time compression algorithm (32-bit)
+local/libaio 0.3.113-1
+    The Linux-native asynchronous I/O facility (aio) library
+local/libappindicator-gtk3 12.10.0.r298-1
+    Allow applications to extend a menu via Ayatana indicators in Unity, KDE or Systray (GTK+ 3 library)
+local/libarchive 3.6.2-2
+    Multi-format archive and compression library
+local/libass 0.17.0-1
+    A portable library for SSA/ASS subtitles rendering
+local/libassuan 2.5.5-1
+    IPC library used by some GnuPG related software
+local/libasyncns 1:0.8+r3+g68cd5af-2
+    A C library for executing name service queries asynchronously
+local/libatasmart 0.19-5
+    ATA S.M.A.R.T. Reading and Parsing Library
+local/libavc1394 0.5.4-4
+    A library to control A/V devices using the 1394ta AV/C commands.
+local/libavif 0.11.1-1
+    Library for encoding and decoding .avif files
+local/libblockdev 2.28-1
+    A library for manipulating block devices
+local/libbluray 1.3.4-1
+    Library to access Blu-Ray disks for video playback
+local/libbpf 1.0.1-1
+    Library for loading eBPF programs and reading and manipulating eBPF objects from user-space
+local/libbs2b 3.1.0-8
+    Bauer stereophonic-to-binaural DSP effect library
+local/libbsd 0.11.7-1
+    Provides useful functions commonly found on BSD systems like strlcpy()
+local/libbytesize 2.7-1
+    A tiny library providing a C "class" for working with arbitrary big sizes in bytes
+local/libcamera 0.0.3-1
+    A complex camera support library for Linux, Android, and ChromeOS
+local/libcanberra 1:0.30+r2+gc0620e4-2
+    A small and lightweight implementation of the XDG Sound Theme Specification
+local/libcap 2.66-1
+    POSIX 1003.1e capabilities
+local/libcap-ng 0.8.3-1
+    A library for Linux that makes using posix capabilities easy
+local/libcdio 2.1.0-3
+    GNU Compact Disc Input and Control Library
+local/libcdio-paranoia 10.2+2.0.1-2
+    CD paranoia libraries from libcdio
+local/libcloudproviders 0.3.1+r8+g3a229ee-1
+    DBus API that allows cloud storage sync clients to expose their services
+local/libcolord 1.4.6-1
+    System daemon for managing color devices (client library)
+local/libcups 1:2.4.2-3
+    The CUPS Printing System - client libraries and headers
+local/libdaemon 0.14-5
+    Lightweight C library that eases the writing of UNIX daemons
+local/libdatrie 0.2.13-2
+    Implementation of double-array structure for representing trie, as proposed by Junichi Aoe.
+local/libdbusmenu-glib 16.04.0-5
+    Library for passing menus over DBus
+local/libdbusmenu-gtk3 16.04.0-5
+    Library for passing menus over DBus (GTK+ 3 library)
+local/libde265 1.0.9-1
+    Open h.265 video codec implementation
+local/libdrm 2.4.114-1
+    Userspace interface to kernel DRM services
+local/libedit 20210910_3.1-2
+    Command line editor library providing generic line editing, history, and tokenization functions
+local/libelf 0.188-1
+    Handle ELF object files and DWARF debugging information (libraries)
+local/libepoxy 1.5.10-1
+    Library handling OpenGL function pointer management
+local/libevdev 1.13.0-1
+    Wrapper library for evdev devices
+local/libevent 2.1.12-4
+    Event notification library
+local/libexif 0.6.24-1
+    Library to parse an EXIF file and read the data from those tags
+local/libfdk-aac 2.0.2-1
+    Fraunhofer FDK AAC codec library
+local/libffi 3.4.4-1
+    Portable foreign function interface library
+local/libfontenc 1.1.7-1
+    X11 font encoding library
+local/libfreeaptx 0.1.1-1
+    Open Source aptX codec library
+local/libgcrypt 1.10.1-2
+    General purpose cryptographic library based on the code from GnuPG
+local/libgit2 1:1.5.0-2
+    A linkable library for Git
+local/libglvnd 1.6.0-1
+    The GL Vendor-Neutral Dispatch library
+local/libgpg-error 1.46-2
+    Support library for libgcrypt
+local/libgtop 2.40.0+2+g31db82ef-2
+    A library for collecting system monitoring data
+local/libgudev 237-2
+    GObject bindings for libudev
+local/libgusb 0.4.3-1
+    GObject wrapper for libusb1
+local/libheif 1.14.0-1
+    HEIF file format decoder and encoder
+local/libice 1.1.1-1
+    X11 Inter-Client Exchange library
+local/libidn2 2.3.4-3
+    Free software implementation of IDNA2008, Punycode and TR46
+local/libiec61883 1.2.0-7
+    A higher level API for streaming DV, MPEG-2 and audio over Linux IEEE 1394
+local/libimagequant 4.0.4-1
+    Library for high-quality conversion of RGBA images to 8-bit indexed-color (palette) images
+local/libimobiledevice 1.3.0-5
+    Library that talks the protocols to support iPhone and iPod Touch devices on Linux
+local/libindicator-gtk3 12.10.1-10
+    Set of symbols and convenience functions for Ayatana indicators (GTK+ 3 library)
+local/libinih 56-1
+    A simple .INI file parser written in C
+local/libinput 1.22.0-1
+    Input device management and event handling library
+local/libisl 0.25-1
+    Library for manipulating sets and relations of integer points bounded by linear constraints
+local/libjpeg-turbo 2.1.4-2
+    JPEG image codec with accelerated baseline compression and decompression
+local/libksba 1.6.3-1
+    Library for working with X.509 certificates, CMS data and related objects
+local/libldac 2.0.2.3-1
+    LDAC Bluetooth encoder library
+local/libldap 2.6.3-2
+    Lightweight Directory Access Protocol (LDAP) client libraries
+local/libmalcontent 0.11.0-1
+    Parental control library
+local/libmanette 0.2.6-3
+    Simple GObject game controller library
+local/libmd 1.0.4-1
+    Message Digest functions from BSD systems
+local/libmfx 22.6.4-1
+    Intel Media SDK dispatcher library
+local/libmm-glib 1.20.2-1
+    ModemManager library
+local/libmnl 1.0.5-1
+    Minimalistic user-space library oriented to Netlink developers.
+local/libmodplug 0.8.9.0-5
+    A MOD playing library
+local/libmpc 1.3.1-1
+    Library for the arithmetic of complex numbers with arbitrarily high precision
+local/libmpdclient 2.20-2
+    C library to implement a MPD client
+local/libndp 1.8-1
+    Library for Neighbor Discovery Protocol
+local/libnetfilter_conntrack 1.0.9-1
+    Library providing an API to the in-kernel connection tracking state table
+local/libnewt 0.52.23-1
+    Not Erik's Windowing Toolkit - text mode windowing with slang
+local/libnfnetlink 1.0.2-1
+    Low-level library for netfilter related kernel/userspace communication
+local/libnftnl 1.2.4-1
+    Netfilter library providing interface to the nf_tables subsystem
+local/libnghttp2 1.51.0-1
+    Framing layer of HTTP/2 is implemented as a reusable C library
+local/libnl 3.7.0-1
+    Library for applications dealing with netlink sockets
+local/libnm 1.40.8-2
+    NetworkManager client library
+local/libnotify 0.8.1-1
+    Library for sending desktop notifications
+local/libnsl 2.0.0-2
+    Public client interface library for NIS(YP)
+local/libogg 1.3.5-1
+    Ogg bitstream and framing library
+local/libomxil-bellagio 0.9.3-4
+    An opensource implementation of the OpenMAX Integration Layer API
+local/libotf 0.9.16-3
+    OpenType Font library
+local/libp11-kit 0.24.1-1
+    Loads and enumerates PKCS#11 modules (library)
+local/libpcap 1.10.1-2
+    A system-independent interface for user-level packet capture
+local/libpciaccess 0.17-1
+    X11 PCI access library
+local/libpgm 5.3.128-2
+    OpenPGM: implementation of the Pragmatic General Multicast (PGM, RFC3208)
+local/libplist 2.2.0-5
+    A library to handle Apple Property List format whereas it's binary or XML
+local/libpng 1.6.39-1
+    A collection of routines used to create PNG format graphics files
+local/libproxy 0.4.18-2
+    Automatic proxy configuration management library
+local/libpsl 0.21.1-3
+    Public Suffix List library
+local/libpulse 16.1-3
+    A featureful, general-purpose sound server (client library)
+local/libraqm 0.9.0-1
+    A library that encapsulates the logic for complex text layout
+local/libraw1394 2.1.2-3
+    Provides an API to the Linux IEEE1394 (FireWire) driver
+local/librsvg 2:2.55.1-1
+    SVG rendering library
+local/librsync 1:2.3.2-1
+    Library for calculating and applying network deltas
+local/libsasl 2.1.28-3
+    Cyrus Simple Authentication Service Layer (SASL) library
+local/libseccomp 2.5.4-1
+    Enhanced seccomp library
+local/libsecret 0.20.5-2
+    Library for storing and retrieving passwords and other secrets
+local/libsigc++ 2.12.0-1
+    Callback Framework for C++
+local/libsm 1.2.4-1
+    X11 Session Management library
+local/libsndfile 1.1.0-3
+    A C library for reading and writing files containing sampled audio data
+local/libsodium 1.0.18-2
+    P(ortable|ackageable) NaCl-based crypto library
+local/libsoup 2.74.3-1
+    HTTP client/server library for GNOME
+local/libsoup3 3.2.2-1
+    HTTP client/server library for GNOME
+local/libsoxr 0.1.3-3
+    The SoX Resampler library that aims to give fast and high quality results for any constant resampling ratio
+local/libssh 0.10.4-3
+    Library for accessing ssh client services through C libraries
+local/libssh2 1.10.0-3
+    A library implementing the SSH2 protocol as defined by Internet Drafts
+local/libstemmer 2.2.0-2
+    Stemming library supporting several languages
+local/libsysprof-capture 3.46.0-1
+    Kernel based performance profiler - capture library
+local/libtasn1 4.19.0-1
+    The ASN.1 library used in GNUTLS
+local/libteam 1.31-7
+    Library for controlling team network device
+local/libthai 0.1.29-2
+    Thai language support routines
+local/libtheora 1.1.1-5
+    An open video codec developed by the Xiph.org
+local/libtiff 4.4.0-4
+    Library for manipulation of TIFF images
+local/libtirpc 1.3.3-2
+    Transport Independent RPC library (SunRPC replacement)
+local/libtool 2.4.7-5 (base-devel)
+    A generic library support script
+local/libunistring 1.1-2
+    Library for manipulating Unicode strings and C strings
+local/libunwind 1.6.2-2
+    Portable and efficient C programming interface (API) to determine the call-chain of a program
+local/liburcu 0.13.2-1
+    LGPLv2.1 userspace RCU (read-copy-update) library
+local/libusb 1.0.26-1
+    Library that provides generic access to USB devices
+local/libusbmuxd 2.0.2-1
+    USB Multiplex Daemon
+local/libuv 1.44.2-1
+    Multi-platform support library with a focus on asynchronous I/O
+local/libva 2.16.0-1
+    Video Acceleration (VA) API for Linux
+local/libva-mesa-driver 22.3.2-1
+    VA-API drivers
+local/libvdpau 1.5-1
+    Nvidia VDPAU library
+local/libverto 0.3.2-4
+    Main event loop abstraction library
+local/libvorbis 1.3.7-3
+    Reference implementation of the Ogg Vorbis audio format
+local/libvpx 1.12.0-2
+    VP8 and VP9 codec
+local/libwacom 2.5.0-1
+    Library to identify Wacom tablets and their features
+local/libwebp 1.2.4-1
+    WebP library and conversion tools
+local/libwireplumber 0.4.13-1
+    Session / policy manager implementation for PipeWire - client library
+local/libwpe 1.14.0-1
+    General-purpose library for WPE WebKit
+local/libx11 1.8.3-3
+    X11 client-side library
+local/libxau 1.0.11-1
+    X11 authorisation library
+local/libxaw 1.0.14-1
+    X11 Athena Widget library
+local/libxcb 1.15-2
+    X11 client-side library
+local/libxcomposite 0.4.6-1
+    X11 Composite extension library
+local/libxcrypt 4.4.33-1
+    Modern library for one-way hashing of passwords
+local/libxcursor 1.2.1-3
+    X cursor management library
+local/libxcvt 0.1.2-1
+    library providing a standalone version of the X server implementation of the VESA CVT standard timing modelines generator
+local/libxdamage 1.1.6-1
+    X11 damaged region extension library
+local/libxdmcp 1.1.4-1
+    X11 Display Manager Control Protocol library
+local/libxext 1.3.5-1
+    X11 miscellaneous extensions library
+local/libxfce4ui 4.18.0-1
+    Widgets library for the Xfce desktop environment
+local/libxfce4util 4.18.0-1
+    Basic utility non-GUI functions for Xfce
+local/libxfixes 6.0.0-2
+    X11 miscellaneous 'fixes' extension library
+local/libxfont2 2.0.6-1
+    X11 font rasterisation library
+local/libxft 2.3.7-1
+    FreeType-based font drawing library for X
+local/libxi 1.8-2
+    X11 Input extension library
+local/libxinerama 1.1.5-1
+    X11 Xinerama extension library
+local/libxkbcommon 1.4.1-2
+    Keymap handling library for toolkits and window systems
+local/libxkbcommon-x11 1.4.1-2
+    Keyboard handling library using XKB data for X11 XCB clients
+local/libxkbfile 1.1.2-1
+    X11 keyboard file manipulation library
+local/libxklavier 5.4-3
+    High-level API for X Keyboard Extension
+local/libxml2 2.10.3-2
+    XML C parser and toolkit
+local/libxmlb 0.3.10-1
+    Library to help create and query binary XML blobs
+local/libxmu 1.1.4-1
+    X11 miscellaneous micro-utility library
+local/libxpm 3.5.14-1
+    X11 pixmap library
+local/libxrandr 1.5.3-1
+    X11 RandR extension library
+local/libxrender 0.9.11-1
+    X Rendering Extension client library
+local/libxshmfence 1.3.2-1
+    a library that exposes a event API on top of Linux futexes
+local/libxslt 1.1.37-2
+    XML stylesheet transformation library
+local/libxss 1.2.3-4
+    X11 Screen Saver extension library
+local/libxt 1.2.1-1
+    X11 toolkit intrinsics library
+local/libxtst 1.2.4-1
+    X11 Testing -- Resource extension library
+local/libxv 1.0.12-1
+    X11 Video extension library
+local/libxxf86vm 1.1.5-1
+    X11 XFree86 video mode extension library
+local/libyaml 0.2.5-1
+    YAML 1.1 library
+local/libyuv r2322+3aebf69d-1
+    Library for YUV scaling
+local/licenses 20220125-1
+    A set of common license files
+local/lilv 0.24.20-1
+    A C library interface to the LV2 plug-in standard
+local/linux-api-headers 5.18.15-1
+    Kernel headers sanitized for use in userspace
+local/linux-firmware 20221214.f3c283e-1
+    Firmware files for Linux
+local/linux-firmware-whence 20221214.f3c283e-1
+    Firmware files for Linux - contains the WHENCE license file which documents the vendor license details
+local/linux-zen 6.1.2.zen1-1
+    The Linux ZEN kernel and modules
+local/linux-zen-headers 6.1.2.zen1-1
+    Headers and scripts for building modules for the Linux ZEN kernel
+local/llvm-libs 14.0.6-4
+    LLVM runtime libraries
+local/lm_sensors 1:3.6.0.r41.g31d1f125-2
+    Collection of user space tools for general SMBus access and hardware monitoring
+local/lsb-release 2.0.r48.3cf5103-1
+    LSB version query program
+local/lsof 4.96.4-1
+    Lists open files for running Unix processes
+local/lua 5.4.4-3
+    Powerful lightweight programming language designed for extending applications
+local/lv2 1.18.10-1
+    Plugin standard for audio systems
+local/lvm2 2.03.18-1
+    Logical Volume Manager 2 utilities
+local/lz4 1:1.9.4-1
+    Extremely fast compression algorithm
+local/lzo 2.10-4
+    Portable lossless data compression library
+local/m17n-db 1.8.0-3
+    Multilingual text processing library (database)
+local/m17n-lib 1.8.0-13
+    Multilingual text processing library (runtimes)
+local/m4 1.4.19-1 (base-devel)
+    The GNU macro processor
+local/mailcap 2.1.53-1
+    Helper application and MIME type associations for file types
+local/make 4.3-5 (base-devel)
+    GNU make utility to maintain groups of programs
+local/mdadm 4.2-2
+    A tool for managing/monitoring Linux md device arrays, also known as Software RAID
+local/mesa 22.3.2-1
+    An open-source implementation of the OpenGL specification
+local/meson 1.0.0-2
+    High productivity build system
+local/mkinitcpio 34-2
+    Modular initramfs image creation utility
+local/mkinitcpio-busybox 1.35.0-1
+    Base initramfs tools
+local/mobile-broadband-provider-info 20221107-2
+    APN configuration presets for mobile broadband connections
+local/mpfr 4.1.1.p1-1
+    Multiple-precision floating-point library
+local/mtdev 1.1.6-2
+    A stand-alone library which transforms all variants of kernel MT events to the slotted type B protocol
+local/nano 7.1-1
+    Pico editor clone with enhancements
+local/ncurses 6.3-3
+    System V Release 4.0 curses emulation library
+local/ndctl 74-1
+    Utility library for managing the libnvdimm (non-volatile memory device) sub-system in the Linux kernel
+local/neofetch 7.1.0-2
+    A CLI system information tool written in BASH that supports displaying images.
+local/nettle 3.8.1-1
+    A low-level cryptographic library
+local/networkmanager 1.40.8-2
+    Network connection manager and user applications
+local/ninja 1.11.1-2
+    Small build system with a focus on speed
+local/npth 1.6-3
+    The new GNU portable threads library
+local/nspr 4.35-1
+    Netscape Portable Runtime
+local/nss 3.86-1
+    Network Security Services
+local/nwg-look-bin 0.1.4-1
+    GTK3 settings editor adapted to work in the sway/wlroots environment (binary package)
+local/ocl-icd 2.3.1-1
+    OpenCL ICD Bindings
+local/opencore-amr 0.1.6-1
+    Open source implementation of the Adaptive Multi Rate (AMR) speech codec
+local/openjpeg2 2.5.0-1
+    An open source JPEG 2000 codec, version 2.5.0
+local/openssh 9.1p1-3
+    SSH protocol implementation for remote login, command execution and file transfer
+local/openssl 3.0.7-4
+    The Open Source toolkit for Secure Sockets Layer and Transport Layer Security
+local/opus 1.3.1-3
+    Totally open, royalty-free, highly versatile audio codec
+local/orc 0.4.33-1
+    Optimized Inner Loop Runtime Compiler
+local/ostree 2022.7-1
+    Operating system and container binary deployment and upgrades
+local/otf-font-awesome 6.2.1-1
+    Iconic font designed for Bootstrap
+local/p11-kit 0.24.1-1
+    Loads and enumerates PKCS#11 modules
+local/pacman 6.0.2-5 (base-devel)
+    A library-based package manager with dependency support
+local/pacman-mirrorlist 20221204-1
+    Arch Linux mirror list for use by pacman
+local/pahole 1:1.24-1
+    Pahole and other DWARF utils
+local/pam 1.5.2-1
+    PAM (Pluggable Authentication Modules) library
+local/pambase 20221020-1
+    Base PAM configuration for services
+local/pango 1:1.50.12-1
+    A library for layout and rendering of text
+local/pangomm 2.46.3-1
+    C++ bindings for Pango
+local/parted 3.5-1
+    A program for creating, destroying, resizing, checking and copying partitions
+local/paru 1.11.1-1
+    Feature packed AUR helper
+local/patch 2.7.6-8 (base-devel)
+    A utility to apply patch files to original sources
+local/pavucontrol 1:5.0+r61+gee77d86-2
+    PulseAudio Volume Control
+local/pciutils 3.9.0-2
+    PCI bus configuration space access library and tools
+local/pcre 8.45-3
+    A library that implements Perl 5-style regular expressions
+local/pcre2 10.40-3
+    A library that implements Perl 5-style regular expressions. 2nd version
+local/pcsclite 1.9.9-2
+    PC/SC Architecture smartcard middleware library
+local/perl 5.36.0-3
+    A highly capable, feature-rich programming language
+local/perl-error 0.17029-4
+    Perl/CPAN Error module - Error/exception handling in an OO-ish way
+local/perl-mailtools 2.21-6
+    Various e-mail related modules
+local/perl-timedate 2.33-4
+    Date formating subroutines
+local/pinentry 1.2.1-1
+    Collection of simple PIN or passphrase entry dialogs which utilize the Assuan protocol
+local/pipewire 1:0.3.63-3
+    Low-latency audio/video router and processor
+local/pipewire-alsa 1:0.3.63-3
+    Low-latency audio/video router and processor - ALSA configuration
+local/pipewire-audio 1:0.3.63-3
+    Low-latency audio/video router and processor - Audio support
+local/pipewire-jack 1:0.3.63-3
+    Low-latency audio/video router and processor - JACK support
+local/pipewire-pulse 1:0.3.63-3
+    Low-latency audio/video router and processor - PulseAudio replacement
+local/pixman 0.42.2-1
+    The pixel-manipulation library for X and cairo
+local/pkgconf 1.8.0-1 (base-devel)
+    Package compiler and linker metadata toolkit
+local/playerctl 2.4.1-3
+    mpris media player controller and lib for spotify, vlc, audacious, bmp, xmms2, and others.
+local/polkit 122-1
+    Application development toolkit for controlling system-wide privileges
+local/polkit-gnome 0.105-9
+    Legacy polkit authentication agent for GNOME
+local/popt 1.19-1
+    A commandline option parser
+local/procps-ng 3.3.17-1
+    Utilities for monitoring your system and its processes
+local/psmisc 23.6-1
+    Miscellaneous procfs tools
+local/python 3.10.9-1
+    Next generation of the python high-level scripting language
+local/python-appdirs 1.4.4-7
+    A small Python module for determining appropriate platform-specific dirs, e.g. a "user data dir".
+local/python-attrs 22.2.0-1
+    Attributes without boilerplate.
+local/python-autocommand 2.2.2-1
+    A library to create a command-line program from a function
+local/python-build 0.9.0-1
+    A simple, correct PEP 517 build frontend
+local/python-cairocffi 1.4.0-1
+    cairocffi is a CFFI-based drop-in replacement for Pycairo, a set of Python bindings and object-oriented API for cairo.
+local/python-cffi 1.15.1-1
+    Foreign Function Interface for Python calling C code
+local/python-clickgen 2.1.3-1
+    X11 & Windows cursor building API
+local/python-gobject 3.42.2-1
+    Python Bindings for GLib/GObject/GIO/GTK+
+local/python-inflect 6.0.2-1
+    Correctly generate plurals, singular nouns, ordinals, indefinite articles
+local/python-installer 0.6.0-1
+    Low-level library for installing a Python package from a wheel distribution
+local/python-jaraco.context 4.2.0-1
+    Context managers by jaraco
+local/python-jaraco.functools 3.5.2-1
+    Functools like those found in stdlib
+local/python-jaraco.text 3.11.0-1
+    Module for text manipulation
+local/python-more-itertools 9.0.0-1
+    More routines for operating on iterables, beyond itertools
+local/python-numpy 1.23.5-1
+    Scientific tools for Python
+local/python-ordered-set 4.1.0-1
+    A MutableSet that remembers its order, so that every entry has an index
+local/python-packaging 21.3-1
+    Core utilities for Python packages
+local/python-pep517 0.13.0-1
+    Wrappers to build Python packages using PEP 517 hooks
+local/python-pillow 9.4.0-1
+    Python Imaging Library (PIL) fork
+local/python-ply 3.11-10
+    Implementation of lex and yacc parsing tools
+local/python-pycparser 2.21-3
+    C parser and AST generator written in Python
+local/python-pydantic 1.10.4-1
+    Data parsing and validation using Python type hints
+local/python-pyparsing 3.0.9-1
+    General parsing module for Python
+local/python-pywayland 0.4.15-1
+    Python bindings for the libwayland library
+local/python-pywlroots 0.15.24-1
+    Python binding to the wlroots library using cffi
+local/python-setuptools 1:65.6.3-1
+    Easily download, build, install, upgrade, and uninstall Python packages
+local/python-toml 0.10.2-8
+    A Python library for parsing and creating TOML
+local/python-tomli 2.0.1-1
+    A lil' TOML parser
+local/python-trove-classifiers 2022.12.22-1
+    Canonical source for classifiers on PyPI (pypi.org)
+local/python-typing_extensions 4.4.0-1
+    Backported and Experimental Type Hints for Python 3.7+
+local/python-validate-pyproject 0.10.1-1
+    Validation library and CLI tool for checking on 'pyproject.toml' files using JSON Schema
+local/python-wheel 0.38.4-1
+    A built-package format for Python
+local/python-xcffib 1.0.0-1
+    Python3 drop in replacement for xpyb, an XCB python binding
+local/python-xkbcommon 0.4-3
+    Python bindings for libxkbcommon using cffi
+local/qtile 0.22.1-1
+    A full-featured, pure-Python tiling window manager
+local/rav1e 0.6.1-1
+    An AV1 encoder focused on speed and safety
+local/readline 8.2.001-1
+    GNU readline library
+local/rhash 1.4.3-1
+    Utility for verifying hash sums of files
+local/rtkit 0.13-2
+    Realtime Policy and Watchdog Daemon
+local/rustup 1.25.1-2
+    The Rust toolchain installer
+local/sbc 2.0-1
+    Bluetooth Subband Codec (SBC) library
+local/scdoc 1.11.2-4
+    Tool for generating roff manual pages
+local/sdl2 2.26.1-1
+    A library for portable low-level access to a video framebuffer, audio output, mouse, and keyboard (Version 2)
+local/seatd 0.7.0-2
+    A minimal seat management daemon, and a universal seat management library
+local/sed 4.9-1 (base-devel)
+    GNU stream editor
+local/serd 0.30.16-1
+    Lightweight C library for RDF syntax supporting reading/ writing Turtle and NTriples
+local/shadow 4.12.3-2
+    Password and account management tool suite with support for shadow files and PAM
+local/shared-mime-info 2.0+155+gf4e7cbc-1
+    Freedesktop.org Shared MIME Info
+local/slang 2.3.3-2
+    S-Lang is a powerful interpreted language
+local/smartmontools 7.3-1
+    Control and monitor S.M.A.R.T. enabled ATA and SCSI Hard Drives
+local/sndio 1.9.0-1
+    A small audio and MIDI framework part of the OpenBSD project
+local/sord 0.16.14-1
+    A lightweight C library for storing RDF data in memory
+local/sound-theme-freedesktop 0.8-5
+    Freedesktop sound theme
+local/source-highlight 3.1.9-9
+    Convert source code to syntax highlighted document
+local/spdlog 1.11.0-1
+    Very fast, header-only/compiled, C++ logging library
+local/speex 1.2.1-1
+    A free codec for free speech
+local/speexdsp 1.2.1-1
+    DSP library derived from Speex
+local/sqlite 3.40.1-1
+    A C library that implements an SQL database engine
+local/sratom 0.6.14-1
+    An LV2 Atom RDF serialisation library
+local/srt 1.5.1-3
+    Secure Reliable Transport library
+local/startup-notification 0.12-7
+    Monitor and display application startup
+local/steam 1.0.0.75-1
+    Valve's digital software delivery system
+local/sudo 1.9.12.p1-1 (base-devel)
+    Give certain users the ability to run some commands as root
+local/svt-av1 1.4.1-1
+    Scalable Video Technology AV1 encoder and decoder
+local/sysfsutils 2.1.1-1
+    System Utilities Based on Sysfs
+local/systemd 252.4-2
+    system and service manager
+local/systemd-libs 252.4-2
+    systemd client libraries
+local/systemd-sysvcompat 252.4-2
+    sysvinit compat for systemd
+local/tar 1.34-1
+    Utility used to store, backup, and transport files
+local/tdb 1.4.7-1
+    Trivial Database similar to GDBM but allows simultaneous commits
+local/tela-icon-theme 2022.08.28-2
+    A flat colorful design icon theme.
+local/texinfo 7.0.1-1 (base-devel)
+    GNU documentation system for on-line information and printed output
+local/thin-provisioning-tools 0.9.0-1
+    Suite of tools for manipulating the metadata of the dm-thin device-mapper target
+local/thunar 4.18.1-1 (xfce4)
+    Modern, fast and easy-to-use file manager for Xfce
+local/thunar-volman 4.18.0-1 (xfce4)
+    Automatic management of removable drives and media for Thunar
+local/tpm2-tss 3.2.0-3
+    Implementation of the TCG Trusted Platform Module 2.0 Software Stack (TSS2)
+local/tracker3 3.4.2-1
+    Desktop-neutral user information store, search tool and indexer
+local/tumbler 4.18.0-1 (xfce4)
+    Thumbnail service implementing the thumbnail management D-Bus specification
+local/tzdata 2022g-1
+    Sources for time zone and daylight saving time data
+local/udisks2 2.9.4-1
+    Disk Management Service, version 2
+local/upower 1.90.0-1
+    Abstraction for enumerating power devices, listening to device events and querying history and statistics
+local/usbmuxd 1.1.1-1
+    USB Multiplex Daemon
+local/usbutils 015-2
+    A collection of USB tools to query connected USB devices
+local/util-linux 2.38.1-1
+    Miscellaneous system utilities for Linux
+local/util-linux-libs 2.38.1-1
+    util-linux runtime libraries
+local/v4l-utils 1.22.1-1
+    Userspace tools and conversion library for Video 4 Linux
+local/vid.stab 1.1-3
+    Video stabilization library
+local/vim 9.0.1046-1
+    Vi Improved, a highly configurable, improved version of the vi text editor
+local/vim-runtime 9.0.1046-1
+    Vi Improved, a highly configurable, improved version of the vi text editor (shared runtime)
+local/vmaf 2.3.1-1
+    Perceptual video quality assessment algorithm based on multi-method fusion
+local/volume_key 0.3.12-7
+    A library for manipulating storage volume encryption keys and storing them separately from volumes to handle forgotten passphrases
+local/vulkan-headers 1:1.3.235-1 (vulkan-devel)
+    Vulkan header files
+local/vulkan-icd-loader 1.3.235-1
+    Vulkan Installable Client Driver (ICD) Loader
+local/vulkan-radeon 22.3.2-1
+    Radeon's Vulkan mesa driver
+local/vulkan-validation-layers 1.3.231.1-1 (vulkan-devel)
+    Vulkan Validation Layers
+local/waybar-hyprland-git 0.9.16.r57.gfb083f93-1
+    Highly customizable Wayland bar for Sway and Wlroots based compositors, with workspaces support for Hyprland (git version)
+local/wayland 1.21.0-2
+    A computer display server protocol
+local/wayland-protocols 1.31-1
+    Specifications of extended Wayland protocols
+local/webkit2gtk-4.1 2.38.3-1
+    Web content engine for GTK
+local/webrtc-audio-processing 0.3.1-3
+    AudioProcessing library based on Google's implementation of WebRTC
+local/wget 1.21.3-1
+    Network utility to retrieve files from the Web
+local/which 2.21-5 (base-devel)
+    A utility to show the full path of commands
+local/wireless_tools 30.pre9-3
+    Tools allowing to manipulate the Wireless Extensions
+local/wireplumber 0.4.13-1
+    Session / policy manager implementation for PipeWire
+local/wlroots 0.15.1-6
+    Modular Wayland compositor library
+local/woff2 1.0.2-4
+    Web Open Font Format 2 reference implementation
+local/wofi 1.3-2
+    launcher for wlroots-based wayland compositors
+local/wpa_supplicant 2:2.10-8
+    A utility providing key negotiation for WPA wireless networks
+local/wpebackend-fdo 1.14.0-1
+    Freedesktop.org backend for WPE WebKit
+local/x264 3:0.164.r3095.baee400-4
+    Open Source H264/AVC video encoder
+local/x265 3.5-3
+    Open Source H265/HEVC video encoder
+local/xarchiver 0.5.4.20-1
+    GTK+ frontend to various command line archivers
+local/xcb-proto 1.15.2-2
+    XML-XCB protocol descriptions
+local/xcb-util 0.4.1-1
+    Utility libraries for XC Binding
+local/xcb-util-errors 1.0.1-1
+    XCB errors library
+local/xcb-util-keysyms 0.4.1-4
+    Utility libraries for XC Binding - Standard X key constants and conversion to/from keycodes
+local/xcb-util-renderutil 0.3.10-1
+    Utility libraries for XC Binding - Convenience functions for the Render extension
+local/xcb-util-wm 0.4.2-1
+    Utility libraries for XC Binding - client and window-manager helpers for ICCCM
+local/xcur2png 0.7.1-7
+    Convert X cursors to PNG images
+local/xdg-dbus-proxy 0.1.4-1
+    Filtering proxy for D-Bus connections
+local/xdg-desktop-portal 1.16.0-1
+    Desktop integration portals for sandboxed apps
+local/xdg-desktop-portal-gtk 1.14.1-1
+    A backend implementation for xdg-desktop-portal using GTK
+local/xdg-desktop-portal-wlr 0.6.0-1
+    xdg-desktop-portal backend for wlroots
+local/xdg-user-dirs 0.18-1
+    Manage user directories like ~/Desktop and ~/Music
+local/xdg-utils 1.1.3+25+g8ae0263-1
+    Command line tools that assist applications with a variety of desktop integration tasks
+local/xf86-input-libinput 1.2.1-1 (xorg-drivers)
+    Generic input driver for the X.Org server based on libinput
+local/xf86-video-amdgpu 22.0.0-1 (xorg-drivers)
+    X.org amdgpu video driver
+local/xf86-video-ati 1:19.1.0.r15.g7a6a34af-1 (xorg-drivers)
+    X.org ati video driver
+local/xfce4-settings 4.18.1-1 (xfce4)
+    Xfce's Configuration System
+local/xfconf 4.18.0-1 (xfce4)
+    D-Bus-based configuration storage system
+local/xfsprogs 6.1.0-1
+    XFS filesystem utilities
+local/xkeyboard-config 2.37-1
+    X keyboard configuration files
+local/xorg-fonts-encodings 1.0.6-1 (xorg-fonts xorg)
+    X.org font encoding files
+local/xorg-server 21.1.6-1 (xorg)
+    Xorg X server
+local/xorg-server-common 21.1.6-1 (xorg)
+    Xorg server common files
+local/xorg-setxkbmap 1.3.3-1 (xorg-apps xorg)
+    Set the keyboard using the X Keyboard Extension
+local/xorg-xauth 1.1.2-1 (xorg-apps xorg)
+    X.Org authorization settings program
+local/xorg-xinit 1.4.2-1
+    X.Org initialisation program
+local/xorg-xinput 1.6.3-3 (xorg-apps xorg)
+    Small commandline tool to configure devices
+local/xorg-xkbcomp 1.4.6-1 (xorg-apps xorg)
+    X Keyboard description compiler
+local/xorg-xmodmap 1.0.11-1 (xorg-apps xorg)
+    Utility for modifying keymaps and button mappings
+local/xorg-xprop 1.2.6-1 (xorg-apps xorg)
+    Property displayer for X
+local/xorg-xrandr 1.5.2-1 (xorg-apps xorg)
+    Primitive command line interface to RandR extension
+local/xorg-xrdb 1.2.1-1 (xorg-apps xorg)
+    X server resource database utility
+local/xorg-xset 1.2.5-1 (xorg-apps xorg)
+    User preference utility for X
+local/xorg-xwayland 22.1.7-1 (xorg)
+    run X clients under wayland
+local/xorgproto 2022.2-1
+    combined X.Org X11 Protocol headers
+local/xvidcore 1.3.7-2
+    XviD is an open source MPEG-4 video codec
+local/xz 5.4.0-1
+    Library and command line tools for XZ and LZMA compressed files
+local/zenity 3.43.0-1
+    Display graphical dialog boxes from shell scripts
+local/zeromq 4.3.4-2
+    Fast messaging system built on sockets. C and C++ bindings. aka 0MQ, ZMQ.
+local/zimg 3.0.4-1
+    Scaling, colorspace conversion, and dithering library
+local/zlib 1:1.2.13-2
+    Compression library implementing the deflate compression method found in gzip and PKZIP
+local/zram-generator 1.1.2-1
+    Systemd unit generator for zram devices
+local/zstd 1.5.2-7
+    Zstandard - Fast real-time compression algorithm

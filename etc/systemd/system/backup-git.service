@@ -1,0 +1,8 @@
+[Unit]
+Description=Backup dot files to github
+
+[Service]
+ExecStart=/home/marcus/Documents/dotfiles/backup.sh
+Type=oneshot
+User=marcus
+group=wheel
