@@ -4,11 +4,13 @@ rm -rf packages.txt
 rm -rf flatpak.txt
 pacman -Qs >> packages.txt
 flatpak list >> flatpak.txt
+cp -R /etc/greetd /home/marcus/Documents/dotfiles/etc/
 cp -R /home/marcus/Documents/colors /home/marcus/Documents/dotfiles/home/marcus/Documents
 cp -R /home/marcus/.config/hypr/ /home/marcus/Documents/dotfiles/home/marcus/config/
 cp -R /home/marcus/.config/waybar/ /home/marcus/Documents/dotfiles/home/marcus/config/
 cp -R /home/marcus/.config/kitty/ /home/marcus/Documents/dotfiles/home/marcus/config/
 cp -R /home/marcus/.config/fish/ /home/marcus/Documents/dotfiles/home/marcus/config/
+cp -R /home/marcus/.config/swaylock /home/marcus/Documents/dotfiles/home/marcus/config/
 cp -R /home/marcus/.config/nwg* /home/marcus/Documents/dotfiles/home/marcus/config/
 cp -R /home/marcus/.config/mimeapps.list /home/marcus/Documents/dotfiles/home/marcus/config/
 cp -R /home/marcus/.config/gtk* /home/marcus/Documents/dotfiles/home/marcus/config/
