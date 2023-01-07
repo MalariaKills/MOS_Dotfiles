@@ -1,6 +1,7 @@
 Discord	com.discordapp.Discord	0.0.22	stable	system
 Flatseal	com.github.tchx84.Flatseal	1.8.1	stable	system
 Trilium Notes	com.github.zadam.trilium	0.57.5	stable	system
+Minecraft	com.mojang.Minecraft	1.0.1221	stable	system
 Spotify	com.spotify.Client	1.1.84.716.gc5f8b819	stable	system
 Freedesktop Platform	org.freedesktop.Platform	21.08.17.1	21.08	system
 Freedesktop Platform	org.freedesktop.Platform	22.08.4	22.08	system
