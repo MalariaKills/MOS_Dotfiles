@@ -12,12 +12,16 @@ local/alsa-card-profiles 1:0.3.63-4
     Low-latency audio/video router and processor - ALSA card profiles
 local/alsa-lib 1.2.8-1
     An alternative implementation of Linux sound support
+local/alsa-plugins 1:1.2.7.1-1
+    Additional ALSA plugins
 local/alsa-topology-conf 1.2.5.1-1
     ALSA topology configuration files
 local/alsa-ucm-conf 1.2.8-1
     ALSA Use Case Manager configuration (and topologies)
 local/amd-ucode 20221214.f3c283e-1
     Microcode update image for AMD CPUs
+local/amf-amdgpu-pro 22.40_1518373-1 (Radeon_Software_for_Linux)
+    AMDGPU Pro Advanced Multimedia Framework
 local/aom 3.5.0-1
     Alliance for Open Media video codec
 local/appstream 0.15.6-1
@@ -200,6 +204,10 @@ local/fuse2 2.9.9-4
     A library that makes it possible to implement a filesystem in a userspace program.
 local/fuse3 3.12.0-1
     A library that makes it possible to implement a filesystem in a userspace program.
+local/gamemode 1.7-1
+    A daemon/lib combo that allows games to request a set of optimisations be temporarily applied to the host OS
+local/gamescope 3.11.51-1
+    SteamOS session compositing window manager
 local/garcon 4.18.0-1 (xfce4)
     Freedesktop.org compliant menu library
 local/gawk 5.2.1-1 (base-devel)
@@ -246,6 +254,8 @@ local/glibmm 2.66.5-1
     C++ bindings for GLib
 local/glslang 11.13.0-2
     OpenGL and OpenGL ES shader front end and validator
+local/glu 9.0.2-3
+    Mesa OpenGL utility library
 local/gmp 6.2.1-2
     A free library for arbitrary precision arithmetic
 local/gnome-desktop 1:43-1
@@ -294,9 +304,9 @@ local/gsm 1.0.22-1
     Shared libraries for GSM 06.10 lossy speech compression
 local/gst-plugin-pipewire 1:0.3.63-4
     Multimedia graph framework - pipewire plugin
-local/gst-plugins-base-libs 1.20.5-4
+local/gst-plugins-base-libs 1.20.5-5
     Multimedia graph framework - base
-local/gstreamer 1.20.5-4
+local/gstreamer 1.20.5-5
     Multimedia graph framework - core
 local/gtk-doc 1.33.2-1
     Documentation tool for public library API
@@ -392,8 +402,10 @@ local/ldns 1.8.3-2
     Fast DNS library supporting recent RFCs
 local/less 1:608-1
     A terminal based program for viewing text files
-local/lib32-amdgpu-pro-oglp 22.40_1518373-1 (Radeon_Software_for_Linux)
-    AMDGPU Pro OpenGL driver (32-bit)
+local/lib32-alsa-lib 1.2.8-1
+    An alternative implementation of Linux sound support (32 bit)
+local/lib32-alsa-plugins 1.2.7.1-1
+    Additional ALSA plugins (32-bit)
 local/lib32-brotli 1.0.9-5
     Brotli compression library
 local/lib32-bzip2 1.0.8-3
@@ -408,6 +420,8 @@ local/lib32-gcc-libs 12.2.0-1 (multilib-devel)
     32-bit runtime libraries shipped by GCC
 local/lib32-glibc 2.36-6
     GNU C Library (32-bit)
+local/lib32-glu 9.0.2-3
+    Mesa OpenGL utility library (32 bits)
 local/lib32-icu 72.1-2
     International Components for Unicode library (32 bit)
 local/lib32-keyutils 1.6.3-1
@@ -424,6 +438,8 @@ local/lib32-libffi 3.4.4-1
     Portable foreign function interface library (32-bit)
 local/lib32-libgcrypt 1.10.1-2
     General purpose cryptographic library based on the code from GnuPG (32-bit)
+local/lib32-libglvnd 1.6.0-1
+    The GL Vendor-Neutral Dispatch library
 local/lib32-libgpg-error 1.46-1
     Support library for libgcrypt (32-bit)
 local/lib32-libidn2 2.3.4-2
@@ -436,11 +452,17 @@ local/lib32-libpsl 0.21.1-3
     Public Suffix List library (32-bit)
 local/lib32-libssh2 1.10.0-2
     A library implementing the SSH2 protocol as defined by Internet Drafts (32-bit)
+local/lib32-libtasn1 4.19.0-1
+    The ASN.1 library used in GNUTLS (32 bit)
 local/lib32-libtirpc 1.3.3-2
     Transport Independent RPC library (SunRPC replacement)
 local/lib32-libunistring 1.1-1
     Library for manipulating Unicode strings and C strings (32-bit)
-local/lib32-libx11 1.8.3-1
+local/lib32-libunwind 1.6.2-2
+    Portable and efficient C programming interface (API) to determine the call-chain of a program (32-bit)
+local/lib32-libva-mesa-driver 22.3.2-2
+    VA-API implementation for gallium (32-bit)
+local/lib32-libx11 1.8.2-2
     X11 client-side library (32-bit)
 local/lib32-libxau 1.0.11-1
     X11 authorisation library (32-bit)
@@ -448,24 +470,48 @@ local/lib32-libxcb 1.15-2
     X11 client-side library (32-bit)
 local/lib32-libxcrypt 4.4.33-1
     Modern library for one-way hashing of passwords (32-bit)
+local/lib32-libxdamage 1.1.6-1
+    X11 damaged region extension library (32-bit)
 local/lib32-libxdmcp 1.1.4-1
     X11 Display Manager Control Protocol library (32-bit)
+local/lib32-libxext 1.3.5-1
+    X11 miscellaneous extensions library (32-bit)
+local/lib32-libxfixes 6.0.0-2
+    X11 miscellaneous 'fixes' extension library (32-bit)
 local/lib32-libxml2 2.10.3-2
     XML C parser and toolkit (32-bit)
 local/lib32-libxshmfence 1.3.2-1
     a library that exposes a event API on top of Linux futexes (32-bit)
+local/lib32-libxss 1.2.3-2
+    X11 Screen Saver extension library (32-bit)
+local/lib32-libxxf86vm 1.1.5-1
+    X11 XFree86 video mode extension library (32-bit)
 local/lib32-llvm-libs 14.0.6-3
     LLVM runtime libraries (32-bit)
+local/lib32-lm_sensors 1:3.6.0.r41.g31d1f125-2
+    Collection of user space tools for general SMBus access and hardware monitoring (32-bit)
+local/lib32-mesa 22.3.2-2
+    An open-source implementation of the OpenGL specification (32-bit)
 local/lib32-ncurses 6.4-1
     System V Release 4.0 curses emulation library (32-bit)
+local/lib32-nspr 4.35-1
+    Netscape Portable Runtime (32-bit)
+local/lib32-nss 3.87-1
+    Network Security Services (32-bit)
 local/lib32-openssl 1:3.0.7-1
     The Open Source toolkit for Secure Sockets Layer and Transport Layer Security (32-bit)
+local/lib32-p11-kit 0.24.1-1
+    Loads and enumerates PKCS#11 modules (32-bit library)
 local/lib32-pam 1.5.2-1
     Pluggable Authentication Modules
+local/lib32-sqlite 3.40.1-1
+    A C library that implements an SQL database engine (32-bit)
 local/lib32-systemd 252.4-1
     system and service manager (32-bit)
 local/lib32-vulkan-icd-loader 1.3.235-1
     Vulkan Installable Client Driver (ICD) Loader (32-bit)
+local/lib32-vulkan-mesa-layers 22.3.2-2
+    Mesa's Vulkan layers (32-bit)
 local/lib32-vulkan-radeon 22.3.2-2
     Radeon's Vulkan mesa driver (32-bit)
 local/lib32-wayland 1.21.0-1
@@ -610,6 +656,8 @@ local/libldac 2.0.2.3-1
     LDAC Bluetooth encoder library
 local/libldap 2.6.3-2
     Lightweight Directory Access Protocol (LDAP) client libraries
+local/libliftoff 0.3.0-1
+    Lightweight KMS plane library
 local/libmalcontent 0.11.0-1
     Parental control library
 local/libmanette 0.2.6-3
@@ -812,10 +860,14 @@ local/libxrandr 1.5.3-1
     X11 RandR extension library
 local/libxrender 0.9.11-1
     X Rendering Extension client library
+local/libxres 1.2.2-1
+    X11 Resource extension library
 local/libxshmfence 1.3.2-1
     a library that exposes a event API on top of Linux futexes
 local/libxslt 1.1.37-2
     XML stylesheet transformation library
+local/libxss 1.2.3-4
+    X11 Screen Saver extension library
 local/libxt 1.2.1-1
     X11 toolkit intrinsics library
 local/libxtst 1.2.4-1
@@ -838,9 +890,9 @@ local/linux-firmware 20221214.f3c283e-1
     Firmware files for Linux
 local/linux-firmware-whence 20221214.f3c283e-1
     Firmware files for Linux - contains the WHENCE license file which documents the vendor license details
-local/linux-zen 6.1.3.zen1-1
+local/linux-zen 6.1.4.zen2-1
     The Linux ZEN kernel and modules
-local/linux-zen-headers 6.1.3.zen1-1
+local/linux-zen-headers 6.1.4.zen2-1
     Headers and scripts for building modules for the Linux ZEN kernel
 local/llvm 14.0.6-4
     Compiler infrastructure
@@ -848,6 +900,10 @@ local/llvm-libs 14.0.6-4
     LLVM runtime libraries
 local/lm_sensors 1:3.6.0.r41.g31d1f125-2
     Collection of user space tools for general SMBus access and hardware monitoring
+local/lsb-release 2.0.r48.3cf5103-1
+    LSB version query program
+local/lsof 4.96.5-1
+    Lists open files for running Unix processes
 local/lua 5.4.4-3
     Powerful lightweight programming language designed for extending applications
 local/lutris 0.5.12-2
@@ -1356,6 +1412,8 @@ local/srt 1.5.1-3
     Secure Reliable Transport library
 local/startup-notification 0.12-7
     Monitor and display application startup
+local/steam 1.0.0.75-1
+    Valve's digital software delivery system
 local/sudo 1.9.12.p1-1 (base-devel)
     Give certain users the ability to run some commands as root
 local/svt-av1 1.4.1-1
@@ -1410,6 +1468,8 @@ local/upower 1.90.0-1
     Abstraction for enumerating power devices, listening to device events and querying history and statistics
 local/usbmuxd 1.1.1-1
     USB Multiplex Daemon
+local/usbutils 015-2
+    A collection of USB tools to query connected USB devices
 local/util-linux 2.38.1-1
     Miscellaneous system utilities for Linux
 local/util-linux-libs 2.38.1-1
@@ -1432,10 +1492,14 @@ local/vte-common 0.70.2-1
     Virtual Terminal Emulator widget (common files)
 local/vte3 0.70.2-1
     Virtual Terminal Emulator widget (GTK3)
+local/vulkan-amdgpu-pro 22.40_1518373-1 (Radeon_Software_for_Linux)
+    AMDGPU Pro Vulkan driver
 local/vulkan-headers 1:1.3.235-1 (vulkan-devel)
     Vulkan header files
 local/vulkan-icd-loader 1.3.235-1
     Vulkan Installable Client Driver (ICD) Loader
+local/vulkan-mesa-layers 22.3.2-3
+    Mesa's Vulkan layers
 local/vulkan-radeon 22.3.2-3
     Radeon's Vulkan mesa driver
 local/vulkan-validation-layers 1.3.231.1-1 (vulkan-devel)
@@ -1447,6 +1511,8 @@ local/wayland 1.21.0-2
 local/wayland-protocols 1.31-1
     Specifications of extended Wayland protocols
 local/webkit2gtk 2.38.3-1
+    Web content engine for GTK
+local/webkit2gtk-4.1 2.38.3-1
     Web content engine for GTK
 local/webrtc-audio-processing 0.3.1-3
     AudioProcessing library based on Google's implementation of WebRTC
@@ -1560,6 +1626,8 @@ local/xxhash 0.8.1-3
     Extremely fast non-cryptographic hash algorithm
 local/xz 5.4.0-1
     Library and command line tools for XZ and LZMA compressed files
+local/zenity 3.43.0-1
+    Display graphical dialog boxes from shell scripts
 local/zeromq 4.3.4-2
     Fast messaging system built on sockets. C and C++ bindings. aka 0MQ, ZMQ.
 local/zimg 3.0.4-1
